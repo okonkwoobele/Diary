@@ -16,7 +16,7 @@ public class AppUserController {
     @Autowired
     private AppUserService appUserService;
 
-    @PostMapping("/ ")
+    @PostMapping("/registration")
     public UserRegistrationResponse register(@RequestBody UserRegistrationRequest userRegistrationRequest) {
         return appUserService.registration(userRegistrationRequest);
     }
