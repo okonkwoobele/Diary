@@ -1,2 +1,4 @@
-package com.example.austinediary.services;public class EntriesServicesImplementation {
+package com.example.austinediary.services;
+
+public class EntriesServicesImplementation {
 }

@@ -1,2 +1,4 @@
-package com.example.austinediary.services;public interface EntriesServices {
+package com.example.austinediary.services;
+
+public interface EntriesServices {
 }
